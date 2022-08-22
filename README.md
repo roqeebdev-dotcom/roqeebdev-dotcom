@@ -32,7 +32,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=roqeebYusuff&show_icons=true&count_private=true&theme=algolia&hide_border=true&bg_color=0D1117" />
     </a>
     <a>
-        <img alt="Roqeeb's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roqeebYusuff&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roqeebYusuff&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
     </a>
 </p>
 
