@@ -1,3 +1,4 @@
+
 <p align="center">
 <a>
     <img src="https://komarev.com/ghpvc/?username=roqeebYusuff"alt="Followers badge">
@@ -5,9 +6,9 @@
 <a><img src="https://img.shields.io/github/followers/roqeebYusuff?label=Followers&style=social" alt="Followers badge"></a>
 </p>
 
-<h1> Heyyyyyy <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Roqeeb :man_technologist:</h1>
+<h1> Heyyyyyy there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Roqeeb :man_technologist:</h1>
 
-<h3>I am A Fullstack Developer</h3>
+I am a Passionate Fullstack engineer with about 3 years developing scalable websites/applications using a wide-range of frontend and backend skills.
 
 <h2> :hammer_and_wrench: My Development Kit</h2>
 
@@ -20,6 +21,16 @@
 <p>
   <img src="https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
 </p>
+
+
+**Here's a quick summary about me**:
+
+- 😊 Pronouns: He/him
+- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 🌱 I’m currently learning Typescript, React Native, and Python.
+- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+- 💼 Job interests: Software Developer, FrontEnd Developer, Backend Developer (Intern or Junior level).
+- 📫 You can [view my resume](https://roqeeb-yusuff.vercel.app/) and contact me by emailing [roqeebyusuff17@gmail.com](mailto:roqeebyusuff17@gmail.com).
 
 ## Github Stats:
 <p align="center">
