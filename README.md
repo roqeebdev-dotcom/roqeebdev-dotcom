@@ -28,9 +28,9 @@ I am a Passionate Fullstack engineer with about 3 years developing scalable webs
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning Typescript, React Native, and Python.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Developer, FrontEnd Developer, Backend Developer (Intern or Junior level).
-- 📫 You can [view my resume](https://roqeeb-yusuff.vercel.app/) and contact me by emailing [roqeebyusuff17@gmail.com](mailto:roqeebyusuff17@gmail.com).
+- 😊 I’m looking for help with open source projects, hackathons, internships, and opportunities.
+- 💼 Job interests: Software Developer, FrontEnd Developer, Backend Developer.
+- 📫 You can [view my resume](https://www.roqeebyusuff.tech/) and contact me by emailing [roqeebyusuff17@gmail.com](mailto:roqeebyusuff17@gmail.com).
 
 ## Github Stats:
 <p align="center">
