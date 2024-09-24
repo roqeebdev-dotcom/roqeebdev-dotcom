@@ -1,9 +1,8 @@
-
 <p align="center">
-<a>
-    <img src="https://komarev.com/ghpvc/?username=roqeebYusuff"alt="Followers badge">
-</a>
-<a><img src="https://img.shields.io/github/followers/roqeebYusuff?label=Followers&style=social" alt="Followers badge"></a>
+    <a>
+        <img src="https://komarev.com/ghpvc/?username=roqeebYusuff"alt="Followers badge">
+    </a>
+    <a><img src="https://img.shields.io/github/followers/roqeebYusuff?label=Followers&style=social" alt="Followers badge"></a>
 </p>
 
 <h1 align="center"> hiiiiiiii there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, i am roqeeb :man_technologist:</h1>
@@ -19,30 +18,29 @@ i believe that excellent code is more than just functional; it should be intuiti
 <h2 align="center"> :hammer_and_wrench: technical skills</h2>
 
 <p align="center">
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-<img alt="SASS" src="https://img.shields.io/badge/sass-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white" />
-<img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img alt="Next JS" src="https://img.shields.io/badge/next.js-0078D4?style=for-the-badge&logo=next.js&logoColor=white" />
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
-<img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="CodeIgniter" src="https://img.shields.io/badge/codeigniter-%23DD4814.svg?&style=for-the-badge&logo=codeigniter&logoColor=white" />
-<img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" />
-<img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white" />
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2314354C.svg?style=for-the-badge&logo=GitHub&logoColor=white"/>
-<img alt="AWS" src="https://img.shields.io/badge/aws-F7931E?style=for-the-badge&logo=aws&logoColor=white" />
-<img alt="Flutter" src="https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" />
+    <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+    <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+    <img alt="SASS" src="https://img.shields.io/badge/sass-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+    <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img alt="Next JS" src="https://img.shields.io/badge/next.js-0078D4?style=for-the-badge&logo=next.js&logoColor=white" />
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
+    <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+    <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+    <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
+    <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+    <img alt="CodeIgniter" src="https://img.shields.io/badge/codeigniter-%23DD4814.svg?&style=for-the-badge&logo=codeigniter&logoColor=white" />
+    <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" />
+    <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white" />
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2314354C.svg?style=for-the-badge&logo=GitHub&logoColor=white"/>
+    <img alt="AWS" src="https://img.shields.io/badge/aws-F7931E?style=for-the-badge&logo=aws&logoColor=white" />
+    <img alt="Flutter" src="https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
-
 
 **here's a quick summary about me**:
 
@@ -55,8 +53,8 @@ i believe that excellent code is more than just functional; it should be intuiti
 <p align="center">let's create something amazing together! 💻🚀</p>
 
 <div align="center">
-<a  href="https://www.linkedin.com/in/roqeeb-yusuff/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:roqeebyusuff17@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <a  href="https://www.linkedin.com/in/roqeeb-yusuff/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:roqeebyusuff17@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </div>
 
 <h2 align="center"> 📈 github stats</h2>
